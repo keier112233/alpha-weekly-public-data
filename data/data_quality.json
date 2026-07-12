@@ -1,0 +1,195 @@
+{
+  "generated_at_utc": "2026-07-12T23:46:25.635297+00:00",
+  "expected_latest_completed_market_date": "2026-07-10",
+  "row_count": 3010,
+  "symbols_expected": [
+    "NVDA",
+    "AMD",
+    "TSM",
+    "ASML",
+    "AMAT",
+    "LRCX",
+    "ANET",
+    "CSCO",
+    "DELL",
+    "GEV",
+    "VST",
+    "CEG",
+    "QQQ",
+    "SOXX"
+  ],
+  "symbols_present": [
+    "AMAT",
+    "AMD",
+    "ANET",
+    "ASML",
+    "CEG",
+    "CSCO",
+    "DELL",
+    "GEV",
+    "LRCX",
+    "NVDA",
+    "QQQ",
+    "SOXX",
+    "TSM",
+    "VST"
+  ],
+  "missing_symbols": [],
+  "duplicate_rows_removed": 112,
+  "duplicate_symbol_date_rows_remaining": 0,
+  "null_counts": {
+    "open": 0,
+    "high": 0,
+    "low": 0,
+    "close": 0,
+    "volume": 0
+  },
+  "invalid_ohlc_rows": 0,
+  "date_ranges": {
+    "AMAT": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "AMD": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "ANET": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "ASML": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "CEG": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "CSCO": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "DELL": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "GEV": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "LRCX": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "NVDA": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "QQQ": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "SOXX": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "TSM": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    },
+    "VST": {
+      "start": "2025-09-02",
+      "end": "2026-07-10",
+      "rows": 215
+    }
+  },
+  "missing_dates_vs_qqq": {
+    "AMAT": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "AMD": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "ANET": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "ASML": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "CEG": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "CSCO": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "DELL": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "GEV": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "LRCX": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "NVDA": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "QQQ": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "SOXX": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "TSM": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "VST": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    }
+  },
+  "large_close_moves_over_35pct": [],
+  "stale_symbols": [],
+  "passed_basic_checks": true
+}
