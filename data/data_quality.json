@@ -1,7 +1,8 @@
 {
-  "generated_at_utc": "2026-07-13T01:36:36.659126+00:00",
-  "expected_latest_completed_market_date": "2026-07-10",
-  "row_count": 8815,
+  "script_version": "2026-07-13-sip-safe-v4",
+  "generated_at_utc": "2026-07-13T23:26:59.910820+00:00",
+  "expected_latest_completed_market_date": "2026-07-13",
+  "row_count": 8856,
   "symbols_expected": [
     "NVDA",
     "AMD",
@@ -89,7 +90,7 @@
     "VST"
   ],
   "missing_symbols": [],
-  "duplicate_rows_removed": 112,
+  "duplicate_rows_removed": 328,
   "duplicate_symbol_date_rows_remaining": 0,
   "null_counts": {
     "open": 0,
@@ -100,219 +101,214 @@
   },
   "invalid_ohlc_rows": 0,
   "date_ranges": {
-    "ADI": {
+    "NVDA": {
       "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "AMAT": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
+      "end": "2026-07-13",
+      "rows": 216
     },
     "AMD": {
       "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "AMZN": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "ANET": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "ARM": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "ASML": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
+      "end": "2026-07-13",
+      "rows": 216
     },
     "AVGO": {
       "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "CEG": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "CRWD": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "CSCO": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "DDOG": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "DELL": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "GEV": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "GOOGL": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "HPE": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "KLAC": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "LRCX": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "MCHP": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "MDB": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "META": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "MPWR": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "MRVL": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "MSFT": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "MU": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "NOW": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "NRG": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "NVDA": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "NXPI": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "ON": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "ORCL": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "PANW": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "PLTR": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "QCOM": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "QQQ": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "SMCI": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "SNOW": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
-    },
-    "SOXX": {
-      "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
+      "end": "2026-07-13",
+      "rows": 216
     },
     "TSM": {
       "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "ASML": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "AMAT": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "LRCX": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "KLAC": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "MU": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "ARM": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "MRVL": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "MCHP": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "MPWR": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "ON": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "ADI": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "NXPI": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "QCOM": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "ANET": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "CSCO": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "DELL": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "HPE": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "SMCI": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
     },
     "VRT": {
       "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "GEV": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
     },
     "VST": {
       "start": "2025-09-02",
-      "end": "2026-07-10",
-      "rows": 215
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "CEG": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "NRG": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "PLTR": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "MDB": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "SNOW": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "DDOG": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "CRWD": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "PANW": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "NOW": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "MSFT": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "AMZN": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "GOOGL": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "META": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "ORCL": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "QQQ": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
+    },
+    "SOXX": {
+      "start": "2025-09-02",
+      "end": "2026-07-13",
+      "rows": 216
     }
   },
   "missing_dates_vs_qqq": {
-    "ADI": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "AMAT": {
+    "NVDA": {
       "count": 0,
       "dates": [],
       "truncated": false
@@ -322,177 +318,7 @@
       "dates": [],
       "truncated": false
     },
-    "AMZN": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "ANET": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "ARM": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "ASML": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
     "AVGO": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "CEG": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "CRWD": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "CSCO": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "DDOG": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "DELL": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "GEV": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "GOOGL": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "HPE": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "KLAC": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "LRCX": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "MCHP": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "MDB": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "META": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "MPWR": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "MRVL": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "MSFT": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "MU": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "NOW": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "NRG": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "NVDA": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "NXPI": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "ON": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "ORCL": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "PANW": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "PLTR": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "QCOM": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "QQQ": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "SMCI": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "SNOW": {
-      "count": 0,
-      "dates": [],
-      "truncated": false
-    },
-    "SOXX": {
       "count": 0,
       "dates": [],
       "truncated": false
@@ -502,12 +328,187 @@
       "dates": [],
       "truncated": false
     },
+    "ASML": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "AMAT": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "LRCX": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "KLAC": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "MU": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "ARM": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "MRVL": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "MCHP": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "MPWR": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "ON": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "ADI": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "NXPI": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "QCOM": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "ANET": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "CSCO": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "DELL": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "HPE": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "SMCI": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
     "VRT": {
       "count": 0,
       "dates": [],
       "truncated": false
     },
+    "GEV": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
     "VST": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "CEG": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "NRG": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "PLTR": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "MDB": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "SNOW": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "DDOG": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "CRWD": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "PANW": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "NOW": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "MSFT": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "AMZN": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "GOOGL": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "META": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "ORCL": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "QQQ": {
+      "count": 0,
+      "dates": [],
+      "truncated": false
+    },
+    "SOXX": {
       "count": 0,
       "dates": [],
       "truncated": false
@@ -515,14 +516,14 @@
   },
   "large_close_moves_over_35pct": [
     {
-      "symbol": "ORCL",
-      "date": "2025-09-10",
-      "return": 0.359497
-    },
-    {
       "symbol": "SNOW",
       "date": "2026-05-28",
       "return": 0.364829
+    },
+    {
+      "symbol": "ORCL",
+      "date": "2025-09-10",
+      "return": 0.359497
     }
   ],
   "stale_symbols": [],
