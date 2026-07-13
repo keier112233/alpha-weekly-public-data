@@ -1,6 +1,6 @@
 {
   "script_version": "2026-07-13-sip-safe-v4",
-  "generated_at_utc": "2026-07-13T23:26:59.910820+00:00",
+  "generated_at_utc": "2026-07-13T23:45:17.341130+00:00",
   "expected_latest_completed_market_date": "2026-07-13",
   "row_count": 8856,
   "symbols_expected": [
@@ -90,7 +90,7 @@
     "VST"
   ],
   "missing_symbols": [],
-  "duplicate_rows_removed": 328,
+  "duplicate_rows_removed": 246,
   "duplicate_symbol_date_rows_remaining": 0,
   "null_counts": {
     "open": 0,
